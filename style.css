@@ -1,0 +1,4 @@
+body { background: #0b0518; color: #fff; font-family: monospace; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+.panel { background: #140b2b; padding: 40px; border-radius: 4px; border: 2px solid #bd93f9; text-align: center; box-shadow: 0 0 15px #bd93f9; }
+h1 { color: #ff79c6; margin-top: 0; font-size: 1.8rem; text-shadow: 0 0 5px #ff79c6; }
+p { color: #f8f8f2; font-size: 1rem; }
